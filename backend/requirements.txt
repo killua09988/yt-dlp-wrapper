@@ -2,13 +2,13 @@
 # created with Comet Assistant
 
 # Flask web framework
-Flask==2.3.3
+Flask==3.1.1
 
 # CORS support for frontend integration
 Flask-CORS==4.0.0
 
 # YouTube video downloader
-yt-dlp==2023.7.6
+yt-dlp==2025.6.30
 
 # FFmpeg Python bindings for video processing
 ffmpeg-python==0.2.0
