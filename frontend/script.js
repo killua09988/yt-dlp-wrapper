@@ -213,4 +213,3 @@ document.addEventListener('DOMContentLoaded', () => {
     clearDownloadLink();
 });
 
-created with Comet Assistant
